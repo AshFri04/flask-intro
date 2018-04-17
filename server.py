@@ -41,11 +41,8 @@ def say_hello():
            <option value="terrific">Terrific</option>
            <option value="fantastic">Fantastic</option>
           </select>
-         
-          
+          <input type="submit" value="Submit">
         </form>
-
-        <input type="submit" value="Submit">
       </body>
     </html>
     """
